@@ -29,68 +29,7 @@ function App() {
             <p>
               Building a Distributed System in Golang (part 1) :{" "}
               <a
-                href="#"
-                className="text-blue-500 underline underline-offset-2"
-              >
-                Link to PDF
-              </a>
-            </p>
-          </li>
-          <li className="ml-4">
-            <p>
-              Image Model Classification from scratch in tensorflow.js in NodeJs:{" "}
-              <a
-                href="#"
-                className="text-blue-500 underline underline-offset-2"
-              >
-                Link to PDF
-              </a>
-            </p>
-          </li>
-          <li className="ml-4">
-            <p>
-              Building a DNS server in Golang: {" "}
-              <a
-                href="#"
-                className="text-blue-500 underline underline-offset-2"
-              >
-                Link to PDF
-              </a>
-            </p>
-          </li>
-          <li className="ml-4">
-            <p>
-              Building a Network Visualization Tool in NodeJs: {" "}
-              <a
-                href="#"
-                className="text-blue-500 underline underline-offset-2"
-              >
-                Link to PDF
-              </a>
-            </p>
-          </li>
-        </ul>
-      </div>
-
-      <div className="flex flex-col m-5">
-        <h1 className="font-title text-2xl font-semibold">Medium</h1>
-        <ul className="list-disc mt-6">
-          <li className="ml-4">
-            <p>
-              Building a COP in Golang :{" "}
-              <a
-                href="#"
-                className="text-blue-500 underline underline-offset-2"
-              >
-                Link to PDF
-              </a>
-            </p>
-          </li>
-          <li className="ml-4">
-            <p>
-              Implementing MQTT broker in python :{" "}
-              <a
-                href="#"
+                href="https://drive.google.com/file/d/1x8ObNZn3UbFxutNSPjBjRmzJ7lsNoqfI/view?usp=drive_link"
                 className="text-blue-500 underline underline-offset-2"
               >
                 Link to PDF
